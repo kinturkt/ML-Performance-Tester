@@ -59,3 +59,9 @@ Matplotlib – Accuracy comparison chart
 3. Run the app:
    ```bash
    streamlit run app.py
+
+---
+
+🙌 Author
+Kintur Shah
+Built with curiosity and a love for clean ML workflows.
