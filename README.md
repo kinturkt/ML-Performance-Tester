@@ -60,6 +60,12 @@ Matplotlib – Accuracy comparison chart
    ```bash
    streamlit run app.py
 
+--- 
+## 🌐 Live Demo
+
+Try it live on Streamlit Cloud:  
+👉 [Launch App](https://ml-performance-tester-by-kt.streamlit.app/)
+
 ---
 
 🙌 Author
