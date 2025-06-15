@@ -36,12 +36,12 @@ An interactive **Streamlit** app to train, evaluate, and compare multiple machin
 
 ---
 
-🧠 Technologies Used
-Python 3
-Pandas – Data manipulation
-scikit-learn – ML algorithms & metrics
-Streamlit – Interactive front-end
-Matplotlib – Accuracy comparison chart
+🧠 Technologies Used <br>
+Python 3 <br>
+Pandas – Data manipulation <br>
+scikit-learn – ML algorithms & metrics <br>
+Streamlit – Interactive front-end <br>
+Matplotlib – Accuracy comparison chart <br>
 
 --- 
 
