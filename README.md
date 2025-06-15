@@ -68,6 +68,6 @@ Try it live on Streamlit Cloud:
 
 ---
 
-🙌 Author
-Kintur Shah
+## Author <br>
+Kintur Shah <br>
 Built with curiosity and a love for clean ML workflows.
