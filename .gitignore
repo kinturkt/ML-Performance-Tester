@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+model_results.csv
+dummy_test.csv
+.env
